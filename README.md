@@ -41,7 +41,7 @@
 | **Tool** | Microsoft Power BI Desktop. |
 | **Data Modelling** | Star schema — 2 fact tables, 3 dimension tables. |
 | **DAX Measures** | 20+ measures including Revenue, RevPAR, ADR, Occupancy %, Realisation %, DBRN, DSRN, DURN, Cancellation %, No Show rate % |
-| **DAX Concepts** | CALCULATE, DIVIDE, ALL(), FILTER(), VAR, HASONEFILTER, SELECTEDVALUE — including Week-over-Week change measures. |
+| **DAX Concepts** | CALCULATE, DIVIDE, ALL(), FILTER(), VAR |
 | **Visualisations** | KPI cards, line charts, donut chart, clustered bar + line combo, matrix table with conditional formatting. |
 | **UX Features** | Page-level slicers (City, Room Class, Property), timeline filter (Month + Week), custom tooltip pages on Revenue and RevPAR KPI cards. |
 
