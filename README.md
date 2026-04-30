@@ -96,8 +96,8 @@ Based on dashboard findings, three priority actions for management:
 | File | Description |
 |---|---|
 | `Data` | Raw Data |
-| `Atliq_Hotels_Dashboard.pbix` | Power BI project file |
-| `dashboard_preview.png` | Screenshot of final dashboard |
+| `Hospitality Revenue & Performance Dashboard.pbix` | Power BI project file |
+| `preview.png` | Screenshot of final dashboard |
 | `README.md` | This file |
 
 ---
